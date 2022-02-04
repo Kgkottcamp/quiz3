@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "css.remoteStyleSheets": [ "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" ],
+"liveSassCompile.settings.autoprefix": [],
+
+"liveSassCompile.settings.generateMap": false,
+"liveSassCompile.settings.formats": [
+         {
+           "format": "expanded",
+          "extensionName": ".css",
+          "savePath": "/css"
+        }
+      ],
+}
